@@ -5,7 +5,7 @@ Hotel Booking Cancelations
 
 In the past few years, both City Hotel and Resort Hotel have experienced significant increases in cancellation rates. This has led to various challenges for the hotels, such as decreased revenues. As a result, the primary objective for both hotels is to reduce cancellation rates, aiming to improve revenue generation efficiency. Our focus in providing comprehensive business advice involves analyzing hotel booking cancellations along with unrelated factors that do not impact their business and annual revenue generation.
 
-# Assumptions
+### Assumptions
 
 1.	The data remains up-to-date and can be efficiently utilized to analyze potential plans for a hotel.
 
@@ -19,7 +19,7 @@ In the past few years, both City Hotel and Resort Hotel have experienced signifi
 
 6.	Customer satisfaction and experience are critical factors in reducing cancellation rates, and improvements in these areas will positively impact the overall success of the hotels.
 
-# Research Questions
+### Research Questions
 
 1.	What factors influence the cancellation of hotel reservations?
 
@@ -27,7 +27,7 @@ In the past few years, both City Hotel and Resort Hotel have experienced signifi
 
 3.	How can hotels receive support in determining pricing and promotional strategies?
 
-# Hypothesis
+### Hypothesis
 
 1.	Higher prices are associated with increased cancellation rates.
 
@@ -35,7 +35,7 @@ In the past few years, both City Hotel and Resort Hotel have experienced signifi
 
 3.	Most customers prefer booking through offline travel agents rather than online channels.
  
-# Analysis and Findings
+### Analysis and Findings
 
 <img width="262" alt="image" src="https://github.com/akhilnashaboina/Hotel-Booking/assets/164436638/c56a45b0-547f-4d17-91fa-4fd8bfbd95fe">
 
@@ -71,7 +71,7 @@ As we observe in the graph, cancellations occur more frequently. When the averag
 
 This relationship indicates that customers may be more sensitive to price when making their booking decisions. When the price is perceived as too high, they may be more inclined to cancel their reservation. This behavior could be influenced by factors such as budget constraints, changing preferences, or finding a better deal elsewhere.
 
-# Suggestions
+### Suggestions
 
 1.	Cancellation rates increase as prices rise. To reduce reservation cancellations, hotels could refine their pricing strategies and consider lowering rates for specific hotels based on locations. Additionally, offering discounts to consumers may help mitigate cancellations.
 
