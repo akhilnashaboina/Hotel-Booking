@@ -1,7 +1,7 @@
 # Hotel-Booking
 Hotel Booking Cancelations
 
-# Business Problem
+## Business Problem
 
 In the past few years, both City Hotel and Resort Hotel have experienced significant increases in cancellation rates. This has led to various challenges for the hotels, such as decreased revenues. As a result, the primary objective for both hotels is to reduce cancellation rates, aiming to improve revenue generation efficiency. Our focus in providing comprehensive business advice involves analyzing hotel booking cancellations along with unrelated factors that do not impact their business and annual revenue generation.
 
@@ -51,7 +51,7 @@ The line graph above shows fluctuations in the average daily rates between a cit
 
 <img width="512" alt="image" src="https://github.com/akhilnashaboina/Hotel-Booking/assets/164436638/911d1039-fa88-4716-be29-a077eca91afc">
 
-We have created a grouped bar graph to analyze the months with the highest and lowest reservation levels based on their status. It's clear from the graph that August has the highest number of confirmed reservations and the lowest number of cancelations, whereas January experiences the highest number of cancelations.
+Grouped bar graph has been created to analyze the months with the highest and lowest reservation levels based on their status. It's clear from the graph that August has the highest number of confirmed reservations and the lowest number of cancelations, whereas January experiences the highest number of cancelations.
  
  <img width="440" alt="image" src="https://github.com/akhilnashaboina/Hotel-Booking/assets/164436638/bade7210-9e71-4b2e-8f6c-5a3d84adc3f9">
 
@@ -82,4 +82,3 @@ This relationship indicates that customers may be more sensitive to price when m
 4.	To decrease the cancellation rate, they could enhance the quality of their hotels and services, particularly in Portugal.
 
 5.	Analyze customer feedback and reviews to identify areas for improvement and address common reasons for cancellations.
-![image](https://github.com/akhilnashaboina/Hotel-Booking/assets/164436638/6449a7f4-f410-4a73-a934-2a6a83847631)
