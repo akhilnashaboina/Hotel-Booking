@@ -1,7 +1,7 @@
 # Hotel-Booking
 Hotel Booking Cancelations
 
-## Business Problem
+### Business Problem
 
 In the past few years, both City Hotel and Resort Hotel have experienced significant increases in cancellation rates. This has led to various challenges for the hotels, such as decreased revenues. As a result, the primary objective for both hotels is to reduce cancellation rates, aiming to improve revenue generation efficiency. Our focus in providing comprehensive business advice involves analyzing hotel booking cancellations along with unrelated factors that do not impact their business and annual revenue generation.
 
